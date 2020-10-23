@@ -36,14 +36,13 @@ Instead, let’s structure a DAO:
 * Customers have enough tokens to override the Experts if they vote together.
 * Right ratio of total tokens is Experts 1 to Customers 3 or 4?
 * Climate action proposals are put up for a vote by the DAO.  Proposals may be:
-
-** Change packaging to reduce waste
-** Replace truck shipping with rail shipping
-** Install solar panels at the corporate offices
-** Purchase Renewable Energy Certificates to offset factory energy use
-** Purchase carbon offsets which protect Amazon rainforest
-** Purchase carbon offsets which install methane digesters at landfills
-etc. etc.
+    * Change packaging to reduce waste
+    * Replace truck shipping with rail shipping
+    * Install solar panels at the corporate offices
+    * Purchase Renewable Energy Certificates to offset factory energy use
+    * Purchase carbon offsets which protect Amazon rainforest
+    * Purchase carbon offsets which install methane digesters at landfills
+    * etc. etc.
 
 * Each vote requires staking of tokens
 * Votes are anonymous
