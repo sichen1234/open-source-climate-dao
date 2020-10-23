@@ -1,6 +1,6 @@
 # Open Source Climate DAO
 
-*A DAO which balances the needs of key stakeholders while taking action on climate change.
+_Using the blockchain, we construct a Distributed Autonomous organization (DAO) which balances the needs of key stakeholders involved in climate action._
 
 ## User Story
 
@@ -29,6 +29,8 @@ An alternative is an “open for all” discussion or even vote on Twitter or Re
 
 ## The DAO
 
+DAO standards for Distributed Autonomous Organization, and it uses the blockchain's properties of immutable records, decentralized transactions, and smart contracts to make collective decisions.  For more information about DAO's, see [DAOStack](http://daostack.io).
+
 Instead, let’s structure a DAO:
 
 * Sponsor gives Reputation tokens to both Customers and Experts.
@@ -43,33 +45,29 @@ Instead, let’s structure a DAO:
     * Purchase carbon offsets which protect Amazon rainforest
     * Purchase carbon offsets which install methane digesters at landfills
     * etc. etc.
-
 * Each vote requires staking of tokens
 * Votes are anonymous
 * Voting is quadratic: Each additional vote requires staking more tokens
 * Votes can have 3 choices:
-
-** Accept - Proposal is valid, and I want us to do this
-** Decline - Proposal is valid, but I don’t want us to do this
-** Reject - Proposal is invalid.  I don’t agree that this is a legitimate project.
-
+    * Accept - Proposal is valid, and I want us to do this
+    * Decline - Proposal is valid, but I don’t want us to do this
+    * Reject - Proposal is invalid.  I don’t agree that this is a legitimate project.
 * Sponsor pays everybody who votes based on number of tokens staked
-** This is a substitute for paying fees to Experts to manage the program
-** Experts should be able to earn a fee by “putting their reputation at stake”
-
+    * This is a substitute for paying fees to Experts to manage the program
+    * Experts should be able to earn a fee by “putting their reputation at stake”
 * Proposals are decided based on votes.  
-
-** A quorum or minimum number of votes is required to make a decision. 
-** Quorum decisions will have a waiting period for more votes, so all Customers can participate if they’re interested.
-** The voting deadline is extended to allow more people to vote.
+    * A quorum or minimum number of votes is required to make a decision. 
+    * Quorum decisions will have a waiting period for more votes, so all Customers can participate if they’re interested.
+    * The voting deadline is extended to allow more people to vote.
 
 * Based on the votes:
-** Accepted - Proposal goes forward.  Voters who voted for Accept get bonus Reputation tokens based on the tokens staked.
-** Declined - Proposal does not go forward.  No bonus Reputation tokens.
-** Rejected - Proposal does not go forward.  Those who staked Reputation tokens on a rejected proposal lose their tokens.
+    * Accepted - Proposal goes forward.  Voters who voted for Accept get bonus Reputation tokens based on the tokens staked.
+    * Declined - Proposal does not go forward.  No bonus Reputation tokens.
+    * Rejected - Proposal does not go forward.  Those who staked Reputation tokens on a rejected proposal lose their tokens.
 
 ## Properties of the DAO
 
+* Customers are more engaged with Sponsor's climate action program
 * Experts make most decisions but Customers can participate and override them
 * Experts earn premium (fees) for voting by staking their reputations
 * Dynamic rebalancing of Experts group
@@ -82,7 +80,6 @@ One extension of this DAO would be to create a curated marketplace where:
 * The companies pay an affiliate commission to the DAO
 * The DAO allocates reputation tokens to members based on purchases and some to experts as well
 * The DAO allocates commissions to
-
-** Pay for overhead
-** Pay for voting
-** Pay for offsets
+    * Pay for overhead
+    * Pay for voting
+    * Pay for offsets
