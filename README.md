@@ -6,9 +6,11 @@ _Using the blockchain, we construct a Distributed Autonomous organization (DAO) 
 
 One problem with climate change is that it's abstract to most people.  We might believe that something is happening, but what does it all mean?  CO2 PPM and 1.5 versus 3 degrees of warming by 2100 -- these are not numbers that most people could relate to.  Similarly, when companies announce a climate plan, most consumers don't relate to it.
 
-In contrast, people spend a lot of time thinking about beer, wine, a ski vacation, or a trip to Venice.  Now that climate change is endangering beer and wine production, reducing snowfall, and inundating Venice, could these signals be something that people could relate to and act on?
+In contrast, people spend a lot of time thinking about their own hobbies: beer, wine, a ski vacation, or a trip to Venice.  Now that climate change is endangering beer and wine production, reducing snowfall, and inundating Venice, could these signals be something that people could relate to and act on?
 
-With a Climate DAO, we hope to increase popular engagement by tying climate action to things people relate to.  
+With a Climate DAO, we hope to increase popular engagement by tying climate action to things people relate to.  Maybe 1.5 degrees of warming doesn't sound like much to you, but projects that are improving the hops harvest for beer (or grape harvest for Bordeaux), switching the farms to use renewable energy, and increasing their resilience against adverse weather conditions could be more visible to consumers.  Could this be a way to educate them about climate change and get them actively engaged in climate action?
+
+That's what this DAO is for.
 
 ## User Story
 
