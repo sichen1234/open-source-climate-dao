@@ -2,6 +2,14 @@
 
 _Using the blockchain, we construct a Distributed Autonomous organization (DAO) which balances the needs of key stakeholders involved in climate action._
 
+## Beer or Bordeaux?
+
+One problem with climate change is that it's abstract to most people.  We might believe that something is happening, but what does it all mean?  CO2 PPM and 1.5 versus 3 degrees of warming by 2100 -- these are not numbers that most people could relate to.  Similarly, when companies announce a climate plan, most consumers don't relate to it.
+
+In contrast, people spend a lot of time thinking about beer, wine, a ski vacation, or a trip to Venice.  Now that climate change is endangering beer and wine production, reducing snowfall, and inundating Venice, could these signals be something that people could relate to and act on?
+
+With a Climate DAO, we hope to increase popular engagement by tying climate action to things people relate to.  
+
 ## User Story
 
 Imagine a company, or Sponsor,  wants to do something positive about climate change.  It decides to become a “carbon neutral” company by making its operations more efficient and offsetting its net emissions.  So it allocates funds for climate action projects, from improving efficiency, changing its products and supply chain, to substituting fossil fuel with renewable energy and purchasing carbon offsets.
