@@ -26,6 +26,8 @@ https://zoom.us/j/95447600292?pwd=TlJJbkJ0alN0NVJIRVpVMlJuc2lBQT09
 Meeting ID: 954 4760 0292
 Passcode: 8Ubk8L
 
+You can also join us at #climate-dao on the Open Climate Collabathon Discord channel:  https://discord.com/channels/640284376516788265/643526550523871235
+
 ## User Story
 
 Imagine a company, or Sponsor,  wants to do something positive about climate change.  It decides to become a “carbon neutral” company by making its operations more efficient and offsetting its net emissions.  So it allocates funds for climate action projects, from improving efficiency, changing its products and supply chain, to substituting fossil fuel with renewable energy and purchasing carbon offsets.
